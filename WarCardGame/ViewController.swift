@@ -67,6 +67,5 @@ class ViewController: UIViewController {
     }
     
     // MARK: Private Methods
-    
 }
 
